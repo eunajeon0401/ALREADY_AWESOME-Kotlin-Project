@@ -18,6 +18,9 @@ Creating a program to share and reserve beauty treatments in Seoul using Kotlin,
 ## Periods of Development
 2022-11-25(Fri) ~ 2022-12-09(Fri)
 
+## Run Application
+https://user-images.githubusercontent.com/115549424/209035401-3f7c3843-d341-4ac8-bfc3-aef4795b4289.mp4
+
 ## Feature Summary and Description
 ![ALREADYAWESOME_PPT_8](https://user-images.githubusercontent.com/115549424/206987668-655f94cb-66a6-437e-a570-b9bd4a514546.jpg)
 ![ALREADYAWESOME_PPT_9](https://user-images.githubusercontent.com/115549424/206987671-a63f0e33-6e95-4aca-94ba-2d40e5206ac3.jpg)
