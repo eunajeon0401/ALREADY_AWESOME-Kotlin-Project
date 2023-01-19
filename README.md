@@ -1,4 +1,6 @@
 
+# ALREADY AWESOME
+
 ## Outline
 Creating a program to share and reserve beauty treatments in Seoul using Kotlin, SQLite, API and Firebase.   
 
